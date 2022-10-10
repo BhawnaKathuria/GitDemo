@@ -1,0 +1,6 @@
+22:14:52.220 [TestNG-tests-3] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xec0c6c72a2abf353
+22:14:52.384 [TestNG-tests-2] INFO  resources.Base - Driver is initialised
+22:14:52.388 [TestNG-tests-1] INFO  resources.Base - driver is initialize
+22:15:09.905 [TestNG-tests-2] INFO  resources.Base - Navigated to home Page
+22:15:11.478 [TestNG-tests-2] INFO  resources.Base - Driver instance will get closed
+22:15:29.958 [TestNG-tests-1] INFO  resources.Base - Navigation to home page

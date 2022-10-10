@@ -1,0 +1,8 @@
+22:15:27.702 [main] INFO  resources.Base - driver is initialize
+22:15:44.659 [main] INFO  resources.Base - Navigation to home page
+22:15:44.862 [main] INFO  resources.Base - Verification of Menu display
+22:15:45.775 [main] INFO  resources.Base - Driver is initialised
+22:15:55.209 [main] INFO  resources.Base - Navigated to home Page
+22:15:55.269 [main] INFO  resources.Base - Scuusessfully verification of message
+22:15:55.397 [main] INFO  resources.Base - Driver instance will get closed
+22:16:30.970 [main] INFO  resources.Base - Enter user Name
